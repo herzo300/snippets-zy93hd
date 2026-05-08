@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://herzo300.github.io/snippets-zy93hd/sitemap.xml
